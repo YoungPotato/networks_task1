@@ -1,1 +1,3 @@
-# networks_task1
+Трассировка автономных систем.
+
+Примеры запуска: python3 main.py some_ip_address(88.88.88.88)
