@@ -1,3 +1,3 @@
 Трассировка автономных систем.
 
-Примеры запуска: python3 main.py some_ip_address(88.88.88.88)
+Примеры запуска: python3 main.py -dst=some_ip_address[Например: 88.88.88.88]
